@@ -9,7 +9,7 @@ This Ansible module setups/deletes a HTTP/TCP/PING test or a SSL certificate che
 
 ## Installation
 
-Just copy the **library/status_cake_*.py** in your playbook folder
+Just copy the content of the present **library** folder to the the library folder in your ansible project directory.
 
 ## status_cake_test :: Example usage:
 
